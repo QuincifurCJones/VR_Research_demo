@@ -3,7 +3,7 @@
 
 # Method 1: Stagnant Level, User Moves - 
 ## The user moves around a centered object (the level) to see different details and where the player is currently located in that level.
-![alt text](https://github.com/QuincifurCJones/VR_Research_demo/Images/SB1.png)
+![alt text](https://github.com/QuincifurCJones/VR_Research_demo/blob/main/Images/SB1.png)
 
 # Method 2: Stagnant Player, Moving Level - 
 ## The user does not directly move in this version, they can instead utilize one of the Meta Quest controller thumb-sticks to rotate the module.
