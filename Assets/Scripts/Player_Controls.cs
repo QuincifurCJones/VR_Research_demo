@@ -22,11 +22,11 @@ public class Player_Controls : MonoBehaviour
     {
         Vector2 stick_input = context.ReadValue<Vector2>();
 
-        gameObject.transform.position += new Vector3(Math.Sign(stick_input.x) * move_scale, 0, Math.Sign(stick_input.y) * move_scale);
+        transform.position = new Vector3(Math.Sign(stick_input.x) * move_scale, 0, Math.Sign(stick_input.y) * move_scale);
     }
 
     void jump(InputAction.CallbackContext context)
     {
-        gameObject.transform.position += new Vector3(0, jump_value, 0);
+        transform.position += new Vector3(0, jump_value, 0);
     }
 }
