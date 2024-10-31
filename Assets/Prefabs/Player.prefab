@@ -148,5 +148,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Right_Stick: {fileID: -8198699208435500284, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   Jump_button: {fileID: 83097790271614945, guid: c348712bda248c246b8c49b3db54643f, type: 3}
-  jump_value: 1
-  move_scale: 2
+  jump_value: 0.5
+  move_scale: 4
