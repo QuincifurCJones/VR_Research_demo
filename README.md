@@ -17,10 +17,9 @@
 ![alt text](https://github.com/QuincifurCJones/VR_Research_demo/blob/main/Images/SB3.png)
 
 
-# Method 4: Moving Player, Moving Level - 
-## Both the player and the level are able to move, the moving of the level would most likely be the better of the two methods before.
-![alt text](https://github.com/QuincifurCJones/VR_Research_demo/blob/main/Images/SB4.png)
+# Links to external items
+## Questions and Answers: https://docs.google.com/spreadsheets/d/1sNW7Dx48qtmyQd54T8BjuCy4oYH_24LYmT9j7rHHFuE/edit?usp=sharing
+## Reflection: https://docs.google.com/document/d/1vcGDJ869kmkLTxLosz4gxJF7bOkoTVI0k5fjF7oqaes/edit?usp=sharing
+## Demo Video: 
 
-# Method 5: User Stationary, Camera Lags Behind the PLayer - 
-## The player has a dragging radius, which will pull the camera along if it ever gets to the edge of the radius.
-![alt text](https://github.com/QuincifurCJones/VR_Research_demo/blob/main/Images/SB5.png)
+
